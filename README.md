@@ -1,2 +1,1 @@
-# iterlabs
-Software developed by IterLabs
+Software developed by IterLabs.org
