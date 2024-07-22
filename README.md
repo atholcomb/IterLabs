@@ -1,1 +1,1 @@
-Software developed by IterLabs.org
+Software developed by IterLabs.io
